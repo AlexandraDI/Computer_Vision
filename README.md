@@ -9,10 +9,18 @@ Image Stiching.
 Stitching an easy case:
 
 <p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="80%" height="80%" />  
+</p>
+
+<p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 Stitching a difficult case:
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="80%" height="80%" />  
+</p>
 
 <p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="80%" height="80%" />  
