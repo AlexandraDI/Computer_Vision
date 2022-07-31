@@ -9,7 +9,7 @@ Image Stiching.
 Stitching an easy case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Stitching an easy case:
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 <p align="center">
