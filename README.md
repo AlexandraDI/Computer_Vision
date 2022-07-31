@@ -6,22 +6,18 @@ Contributors: Gianluca Vico.
 * [Task 1](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
 Image Stiching.
 
-<p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="50%" height="50%" />  
-</p>
-
 Some of the results are shown below.
 
 Stitching an easy case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 * [Task 2](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.ipynb){:target="_blank"}:
