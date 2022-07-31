@@ -3,7 +3,7 @@
 Implementation of 2 Assignments for the course Computer Vision.
 Contributors: Gianluca Vico.
 
-* [Task 1](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
+* [Task 1](https://github.com/AlexandraDI/Computer_Vision/blob/main/Project_1/Computer_Vision_First_Assignment.ipynb){:target="_blank"}:
 Image Stiching.
 
 Stitching an easy case:
