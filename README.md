@@ -26,7 +26,7 @@ Stitching a difficult case:
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
-* [Task 2](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.ipynb){:target="_blank"}:
+* [Task 2](https://github.com/AlexandraDI/Computer_Vision/blob/main/Project_2/CV_Assignment2.ipynb){:target="_blank"}:
 The goal is to implement a classifier in order to predict the emotion of given images with faces. The emotion model used includes the six basic emotions (anger, disgust, fear, happiness, sadness and surprise) plus neutral. In addition, we aim to use our classifier for real time classification on videos.
 
-In the [report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results.
+In the [report](https://github.com/AlexandraDI/Computer_Vision/blob/main/Project_2/Computer_Vision_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results.
