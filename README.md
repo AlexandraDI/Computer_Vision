@@ -19,7 +19,7 @@ Stitching an easy case:
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="45%" height="45%" />  
 </p>
 
 <p align="center">
