@@ -6,8 +6,6 @@ Contributors: Gianluca Vico.
 * [Task 1](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
 Image Stiching.
 
-Some of the results are shown below.
-
 Stitching an easy case:
 
 <p align="center">
